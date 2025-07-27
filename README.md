@@ -25,12 +25,6 @@ A beginner-friendly and interactive **Counter Application** built with **HTML, C
 
 ---
 
-## 📷 Screenshot
-> Add a real screenshot here once available  
-`assets/screenshot.png` (optional placeholder)
-
----
-
 ## 🗂️ Project Structure
 ```
 
@@ -64,22 +58,6 @@ cd counter-app
 3. Open the `index.html` file in your browser.
 
 ---
-
-## 🌍 Hosting on GitHub Pages (Optional)
-
-If you want to host your own version:
-
-1. Push your project to GitHub.
-2. Go to the repository settings → Pages.
-3. Set source to `main` branch and root directory.
-4. Your app will be live at:
-
-```
-https://your-username.github.io/repository-name/
-```
-
----
-
 ## 👨‍💻 Author
 
 Made with ❤️ by **Harshit Yadav**
